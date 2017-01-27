@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{31E7E416-FA9D-8E65-EC06-05924289B7DB}") = "TrulioHero", "Assembly-CSharp-firstpass.csproj", "{15194CE9-EC1E-49EA-309D-EB4ED32558FF}"
+EndProject
+Project("{31E7E416-FA9D-8E65-EC06-05924289B7DB}") = "TrulioHero", "Assembly-CSharp.csproj", "{11492B76-FA6D-C8C7-AACF-5C01176DDEE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15194CE9-EC1E-49EA-309D-EB4ED32558FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15194CE9-EC1E-49EA-309D-EB4ED32558FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15194CE9-EC1E-49EA-309D-EB4ED32558FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15194CE9-EC1E-49EA-309D-EB4ED32558FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11492B76-FA6D-C8C7-AACF-5C01176DDEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11492B76-FA6D-C8C7-AACF-5C01176DDEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11492B76-FA6D-C8C7-AACF-5C01176DDEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11492B76-FA6D-C8C7-AACF-5C01176DDEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

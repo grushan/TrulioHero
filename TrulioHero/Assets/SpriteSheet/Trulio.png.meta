@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 16238a592f1c246dca08802b9f5a894d
+timeCreated: 1484936273
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Trulio_walk4
+    21300002: Trulio_walk1
+    21300004: Trulio_personal1
+    21300006: Trulio_jump1
+    21300008: Trulio_nogun1
+    21300010: Trulio_fear0
+    21300012: Trulio_walk3
+    21300014: Trulio_walk0
+    21300016: Trulio_ladder0
+    21300018: Trulio_jump0
+    21300020: Trulio_idle1
+    21300022: Trulio_ladder1
+    21300024: Trulio_walk2
+    21300026: Trulio_personal0
+    21300028: Trulio_duck0
+    21300030: Trulio_nogun0
+    21300032: Trulio_idle0
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trulio_walk4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_walk1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_personal1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132
+        width: 51
+        height: 44
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_jump1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 132
+        width: 51
+        height: 49
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_nogun1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 132
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_fear0
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 132
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_walk3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_walk0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_ladder0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_jump0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 66
+        width: 51
+        height: 48
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_idle1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 66
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_ladder1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 66
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_walk2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_personal0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 51
+        height: 44
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_duck0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 49
+        height: 41
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_nogun0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trulio_idle0
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
